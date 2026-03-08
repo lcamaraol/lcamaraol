@@ -1,13 +1,15 @@
 <h1>Hi, i'm <a  href="https://github.com/lcamaraol/">Camarao. </a> <img  src="https://www.gamerview.com.br/wp-content/uploads/2019/12/dark-souls.gif" width="50px"></h1>
 
 Não há muitas coisas aqui mas, seja bem vindo.<br>
-- Estudante de Ciencia da computação.<br>
+- Formado em Ciencia da Computação na UNIFESO.<br>
+- Sou aluno do projeto SERRATEC.<br>
 - Gosto de Game Dev e Game Design.<br>
-- Estudo atualmente Java para GameDev e estou me introduzindo em C# . <br>
+- Estudo atualmente estudando Java para GameDev e estou me introduzindo em C# . <br>
 - Faço algumas artes 2D.<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_bernardo_l/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31fh44kekr7iyn3duq5t7elo5uc4)
+[![GitHub SERRATEC]([https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white](https://cdn-icons-png.flaticon.com/512/25/25231.png))]([https://open.spotify.com/user/31fh44kekr7iyn3duq5t7elo5uc4](https://github.com/BernardoSilvaOliveira))
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
