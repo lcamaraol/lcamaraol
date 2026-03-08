@@ -19,5 +19,8 @@ Não há muitas coisas aqui mas, seja bem vindo.<br>
 <br>
 <br>
 <img align='left' src="https://1.bp.blogspot.com/-U76zJ1jVnL4/WH4MO2JsI_I/AAAAAAAAtsg/pO_Nsab7YN8gBsc8MyY8Qp0S4QLjkmUvwCLcB/s1600/diboas%2Besperando%2Ba%2Bmorte.gif">
-  
- 
+
+![Alt Text](https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif)
+<br>
+<img src="https://i.pinimg.com/originals/ec/ea/8a/ecea8a51e4ae263afe3268d4a15ffb6e.gif" width="40" height="40" />
+
