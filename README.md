@@ -9,7 +9,7 @@ Não há muitas coisas aqui mas, seja bem vindo.<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l_bernardo_l/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31fh44kekr7iyn3duq5t7elo5uc4)
-[![GitHub SERRATEC]([https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white](https://cdn-icons-png.flaticon.com/512/25/25231.png))]([https://open.spotify.com/user/31fh44kekr7iyn3duq5t7elo5uc4](https://github.com/BernardoSilvaOliveira))
+[![GitHub SERRATEC](https://cdn-icons-png.flaticon.com/512/25/25231.png)](https://github.com/BernardoSilvaOliveira)
 
 <h3 align="left">Linguagens e ferramentas:</h3>
 
